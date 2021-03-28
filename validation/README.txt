@@ -1,0 +1,30 @@
+
+The following is a list of filenames with resolution_3d = 0.05
+
+GT abc_0050_00500082_4cb4bf14428fe3832dd7ed78_000.hdf5
+PRED abc_0050_00500082_4cb4bf14428fe3832dd7ed78_000__predictions.hdf5
+GT abc_0050_00500149_54930d6f7740b03347d89a56_000.hdf5
+PRED abc_0050_00500149_54930d6f7740b03347d89a56_000__predictions.hdf5
+GT abc_0050_00500166_5894bbd701b2bb0fc88a6978_007.hdf5
+PRED abc_0050_00500166_5894bbd701b2bb0fc88a6978_007__predictions.hdf5
+GT abc_0050_00500348_fae0ecd8b3dc068d39f0d09c_000.hdf5
+PRED abc_0050_00500348_fae0ecd8b3dc068d39f0d09c_000__predictions.hdf5
+GT abc_0050_00500683_511f7debb63f164003339dec_000.hdf5
+PRED abc_0050_00500683_511f7debb63f164003339dec_000__predictions.hdf5
+GT (hidden) abc_0050_00501216_5894ff84fca3da0f6b67497b_012.hdf5
+PRED (hidden) abc_0050_00501216_5894ff84fca3da0f6b67497b_012__predictions.hdf5
+GT (hidden) abc_0050_00507625_b39680dc8dc650ec01956bbe_011.hdf5
+PRED (hidden) abc_0050_00507625_b39680dc8dc650ec01956bbe_011__predictions.hdf5
+
+
+
+The following is a list of filenames with resolution_3d = 0.02
+
+GT abc_0050_00500166_5894bbd701b2bb0fc88a6978_007.hdf5
+PRED abc_0050_00500166_5894bbd701b2bb0fc88a6978_007__predictions.hdf5
+GT abc_0050_00500348_fae0ecd8b3dc068d39f0d09c_000.hdf5
+PRED abc_0050_00500348_fae0ecd8b3dc068d39f0d09c_000__predictions.hdf5
+GT (hidden) abc_0050_00500683_511f7debb63f164003339dec_000.hdf5
+PRED (hidden) abc_0050_00500683_511f7debb63f164003339dec_000__predictions.hdf5
+GT (hidden) abc_0050_00507625_b39680dc8dc650ec01956bbe_011.hdf5
+PRED (hidden) abc_0050_00507625_b39680dc8dc650ec01956bbe_011__predictions.hdf5
